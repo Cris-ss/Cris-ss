@@ -5,7 +5,6 @@ Focused on backend development, APIs, and software testing. Currently deep in re
 - 🎓 Systems Analysis and Development (CEUB)
 - 💻 Backend, APIs, and automated testing
 - 🔍 Reverse engineering binary analysis & protocol reversing
-- 📫 Reach me via [GitHub](https://github.com/Cris-ss)
 
 **Languages & Frameworks:**
 
